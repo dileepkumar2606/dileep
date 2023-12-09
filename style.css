@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+
+h1,h3{
+    color: rgb(255, 255, 255);
+}
+
+div{
+    margin-left: 150px;
+}
